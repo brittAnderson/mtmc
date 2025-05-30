@@ -32,6 +32,8 @@ import Hakyll
       renderRss,
       buildTags,
       bodyField,
+      Configuration,
+      destinationDirectory,
       FeedConfiguration(..) )
 
 
