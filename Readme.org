@@ -1,1 +1,5 @@
-Temporary placeholder file while building.
+This Repo is for a blog exploring issues of how we can identify and deploy a general language to undergird theoretical psychology. The path explored here is that informal thinking about /mind/ should lead to theories in some formal sense that can be translated to a general purpose mathematical language and the latter will afford a path to transformation into computer code for simulation and exploration.
+
+You can find the blog at [[https://brittAnderson.github.io/mtmc][Mind→Theory→Math→Code]]
+
+
