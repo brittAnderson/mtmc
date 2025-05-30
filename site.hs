@@ -34,6 +34,8 @@ import Hakyll
       bodyField,
       Configuration,
       destinationDirectory,
+      hakyllWith,
+      defaultConfiguration,
       FeedConfiguration(..) )
 
 
