@@ -1,5 +1,5 @@
 _cache/
-
+*.bak
 dist-newstyle/
 
 *.*~
