@@ -1,0 +1,30 @@
+---
+author: Britt Anderson
+bibliography: /home/britt/gitRepos/masterBib/bayatt.bib
+csl: /home/britt/gitRepos/brittsite/assets/chicago-fullnote-bibliography.csl
+title: We need a new language
+---
+
+```{=org}
+#+tags: mtmc
+```
+# A new language
+
+> I am designing a new language. I\'ve reached the limits of
+> conventional languages, and now they frustrate my attempts to progress
+> further. They lack the power to express concepts that I need, and even
+> in their own domain, they\'re imprecise and unwieldy. They\'re hardly
+> fit for speech, let alone for thought.
+>
+> Existing linguistic theory is useless; I\'ll reevaluate basic logic to
+> determine the suitable atomic components for my language. This
+> language will support a dialect coexpressive with all of mathematics,
+> so that any equation I write will have a linguistic equivalent.[^1]
+
+:::: {#refs .references .csl-bib-body .hanging-indent entry-spacing="0"}
+::: {#ref-chiang2002 .csl-entry}
+Chiang, Ted. *Stories of Your Life and Others*. Tor, 2002.
+:::
+::::
+
+[^1]: Ted Chiang, *Stories of Your Life and Others* (Tor, 2002).

@@ -1,0 +1,13 @@
+#+Title: We need a new language
+#+Author: Britt Anderson
+#+tags: mtmc
+
+* A new language
+
+#+begin_quote
+I am designing a new language. I've reached the limits of conventional languages, and now they frustrate my attempts to progress further. They lack the power to express concepts that I need, and even in their own domain, they're imprecise and unwieldy. They're hardly fit for speech, let alone for thought.
+
+Existing linguistic theory is useless; I'll reevaluate basic logic to determine the suitable atomic components for my language. This language will support a dialect coexpressive with all of mathematics, so that any equation I write will have a linguistic equivalent. [cite:@chiang2002]
+#+end_quote
+
+

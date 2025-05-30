@@ -1,0 +1,10 @@
+---
+author: Britt Anderson
+title: Why
+---
+
+```{=org}
+#+tags: mtmc
+```
+Why is it what it is that makes it feels like me? And: What is the what
+that explains the why?
