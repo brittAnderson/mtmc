@@ -1,0 +1,50 @@
+#+Title: Programming, Programming Languages and Cognitive Theorizing
+#+subtitle: Was Dijkstra a Whorfian?
+#+Author: Britt Anderson
+#+tags: mtmc
+
+* TODO add comments to quotes, then export to md.
+
+
+Do the programming languages we know influence the cognitive theories that we conceive? Does our view of programming's role in computational cognitive science have a negative effect on our advancement?
+
+A few interesting quotes from Edsger W. Dijkstra's ACM Turning Lecture (1972) [fn:1]. For some I have a comment, for others there is nothing to add. 
+
+#+begin_quote
+"[Two opinions from the early days]...The one opinion was that a really competent programmer should be puzzle-minded and very fond of clever tricks; the other opinion was that programming was nothing more than optimizing the efficiency of the computational process, in one direction or the other."
+#+end_quote
+
+#+begin_quote
+"The sooner we can forget that FORTRAN has ever existed, the better, for as a vehicle of thought it is no longer adequate: it wastes our brainpower, is too risky and therefore too expensive to use. FORTRAN’s tragic fate has been its wide acceptance, mentally chaining thousands and thousands of programmers to our past mistakes."
+#+end_quote
+
+#+begin_quote
+"... no loop should be written down without providing a proof for termination ..."
+#+end_quote
+
+#+begin_quote
+"We must not forget that it is not our business to make programs, it is our business to design classes of computations that will display a desired behaviour."
+#+end_quote
+
+#+begin_quote
+"The only effective way to raise the confidence level of a program significantly is to give a convincing proof of its correctness. But one should not first make the program and then prove its correctness, because then the requirement of providing the proof would only increase the poor programmer’s burden. On the contrary: the programmer should let correctness proof and program grow hand in hand."
+#+end_quote
+
+#+begin_quote
+"In this connection it might be worth-while to point out that the purpose of abstracting is not to be vague, but to create a new semantic level in which one can be absolutely precise."
+#+end_quote
+
+#+begin_quote
+"Now for the fifth argument. It has to do with the influence of the tool we are trying to use upon our own thinking habits. ... if I start to analyse the thinking habits of myself and of my fellow human beings, I come, [I come to the conclusion] that the tools we are trying to use and the language or notation we are using to express or record our thoughts, are the major factors determining what we can think or express at all!"
+#+end_quote
+
+#+begin_quote
+"The analysis of the influence that programming languages have on the thinking habits of its users, and the recognition that, by now, brainpower is by far our scarcest resource, they together give us a new collection of yardsticks for comparing the relative merits of various programming languages."
+#+end_quote
+
+#+begin_quote
+"... tomorrow’s programming languages ... to a much greater extent than hitherto they should invite us to reflect in the structure of what we write down all abstractions needed to cope conceptually with the complexity of what we are designing."
+#+end_quote
+* Footnotes
+
+[fn:1] I took these from [[https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html]] .
