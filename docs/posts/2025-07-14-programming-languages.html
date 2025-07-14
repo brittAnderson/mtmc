@@ -1,17 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
-    xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <channel>
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Mind→Theory→Math→Code</title>
-        <link>https://brittAnderson.github.io</link>
-        <description><![CDATA[Seeking a Language for Theoretical Psychology]]></description>
-        <atom:link href="https://brittAnderson.github.io/rss.xml" rel="self"
-                   type="application/rss+xml" />
-        <lastBuildDate>Mon, 14 Jul 2025 00:00:00 UT</lastBuildDate>
-        <item>
-    <title>Can Programming Languages Tell Us How We Think?</title>
-    <link>https://brittAnderson.github.io/posts/2025-07-14-programming-languages.html</link>
-    <description><![CDATA[<article>
+        <link rel="stylesheet" href="../css/default.css" />
+    </head>
+    <body>
+        <header>
+            <div class="logo">
+                <a href="../">Mind→Theory→Math→Code </a>
+            </div>
+            <nav>
+                <a href="../">Home</a>
+                <a href="../about.html">About</a>
+                <a href="../contact.html">Contact</a>
+                <a href="../archive.html">Archive</a>
+            </nav>
+        </header>
+
+        <main role="main">
+            <h1>Can Programming Languages Tell Us How We Think?</h1>
+            <article>
     <section class="header">
         Posted on July 14, 2025
         
@@ -150,7 +161,7 @@ too, e.g. Lean, Julia, and Template Haskell.</p>
 <span id="metaprogramming-9"><a href="#metaprogramming-9" aria-hidden="true" tabindex="-1"></a>  (<span class="kw">format</span> <span class="kw">t</span> <span class="st">&quot;Its square is: ~a~%&quot;</span> (<span class="op">*</span> <span class="dv">5</span> <span class="dv">5</span>)))</span>
 <span id="metaprogramming-10"><a href="#metaprogramming-10" aria-hidden="true" tabindex="-1"></a></span>
 <span id="metaprogramming-11"><a href="#metaprogramming-11" aria-hidden="true" tabindex="-1"></a>(unless-zero <span class="dv">0</span></span>
-<span id="metaprogramming-12"><a href="#metaprogramming-12" aria-hidden="true" tabindex="-1"></a>  (<span class="kw">format</span> <span class="kw">t</span> <span class="st">&quot;You don&#39;t know nothing&quot;</span>))</span>
+<span id="metaprogramming-12"><a href="#metaprogramming-12" aria-hidden="true" tabindex="-1"></a>  (<span class="kw">format</span> <span class="kw">t</span> <span class="st">&quot;You don't know nothing&quot;</span>))</span>
 <span id="metaprogramming-13"><a href="#metaprogramming-13" aria-hidden="true" tabindex="-1"></a></span>
 <span id="metaprogramming-14"><a href="#metaprogramming-14" aria-hidden="true" tabindex="-1"></a>(unless-zero <span class="dv">1</span></span>
 <span id="metaprogramming-15"><a href="#metaprogramming-15" aria-hidden="true" tabindex="-1"></a>  (<span class="kw">format</span> <span class="kw">t</span> <span class="st">&quot;Number is one!~%&quot;</span>))</span></code></pre></div>
@@ -173,190 +184,11 @@ others as it permits a more natural application of our ideas to the
 problem.</p>
     </section>
 </article>
-]]></description>
-    <pubDate>Mon, 14 Jul 2025 00:00:00 UT</pubDate>
-    <guid>https://brittAnderson.github.io/posts/2025-07-14-programming-languages.html</guid>
-    <dc:creator>Britt Anderson</dc:creator>
-</item>
-<item>
-    <title>Programming, Programming Languages and Cognitive Theorizing</title>
-    <link>https://brittAnderson.github.io/posts/2025-06-18-computer-languages.html</link>
-    <description><![CDATA[<article>
-    <section class="header">
-        Posted on June 18, 2025
-        
-            by Britt Anderson
-        
-    </section>
-    <section>
-        <p>Do the programming languages we know influence the cognitive theories
-that we conceive? Does our view of programming's role in computational
-cognitive science have a negative effect on our advancement?</p>
-<p>A few interesting quotes from Edsger W. Dijkstra's ACM Turning Lecture
-(1972) <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>. For some I have a comment, for others there is nothing to
-add.</p>
-<blockquote>
-<p>"[Two opinions from the early days]…The one opinion was that a
-really competent programmer should be puzzle-minded and very fond of
-clever tricks; the other opinion was that programming was nothing more
-than optimizing the efficiency of the computational process, in one
-direction or the other."</p>
-</blockquote>
-<p>I think the latter is the attitude opinion of most programmers in
-computational neuroscience.</p>
-<blockquote>
-<p>"The sooner we can forget that FORTRAN has ever existed, the better,
-for as a vehicle of thought it is no longer adequate: it wastes our
-brainpower, is too risky and therefore too expensive to use. FORTRAN’s
-tragic fate has been its wide acceptance, mentally chaining thousands
-and thousands of programmers to our past mistakes."</p>
-</blockquote>
-<p>Replace FORTRAN with Python for the modern version. Don't miss the
-little bit about programming "as a vehicle for thought." That is what
-we most miss with our current popular languages.</p>
-<blockquote>
-<p>"… no loop should be written down without providing a proof for
-termination …"</p>
-</blockquote>
-<p>Interesting to see him discussing formal methods 50 years ago.</p>
-<blockquote>
-<p>"We must not forget that it is not our business to make programs, it
-is our business to design classes of computations that will display a
-desired behaviour."</p>
-</blockquote>
-<p>Note the emphasis shift from program to computation.</p>
-<blockquote>
-<p>"The only effective way to raise the confidence level of a program
-significantly is to give a convincing proof of its correctness. But
-one should not first make the program and then prove its correctness,
-because then the requirement of providing the proof would only
-increase the poor programmer’s burden. On the contrary: the programmer
-should let correctness proof and program grow hand in hand."</p>
-</blockquote>
-<p>Sounds like the desiderata for an interactive theorem prover. Did they
-have them then?</p>
-<blockquote>
-<p>"In this connection it might be worth-while to point out that the
-purpose of abstracting is not to be vague, but to create a new
-semantic level in which one can be absolutely precise."</p>
-</blockquote>
-<blockquote>
-<p>"Now for the fifth argument. It has to do with the influence of the
-tool we are trying to use upon our own thinking habits. … if I start
-to analyse the thinking habits of myself and of my fellow human
-beings, I come, [I come to the conclusion] that the tools we are
-trying to use and the language or notation we are using to express or
-record our thoughts, are the major factors determining what we can
-think or express at all!"</p>
-</blockquote>
-<p>This accords with my own impression. Knowing some Haskell, Common Lisp,
-Python, and Lean (and probably many others) improves your thinking, but
-maybe not your programs. Mine are certainly a mess.</p>
-<blockquote>
-<p>"The analysis of the influence that programming languages have on the
-thinking habits of its users, and the recognition that, by now,
-brainpower is by far our scarcest resource, they together give us a
-new collection of yardsticks for comparing the relative merits of
-various programming languages."</p>
-</blockquote>
-<blockquote>
-<p>"… tomorrow’s programming languages … to a much greater extent
-than hitherto they should invite us to reflect in the structure of
-what we write down all abstractions needed to cope conceptually with
-the complexity of what we are designing."</p>
-</blockquote>
-<h1 id="footnotes">Footnotes</h1>
-<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
-<hr />
-<ol>
-<li id="fn1"><p>I took these from
-<a href="https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html" class="uri">https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html</a>
-.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section>
-    </section>
-</article>
-]]></description>
-    <pubDate>Wed, 18 Jun 2025 00:00:00 UT</pubDate>
-    <guid>https://brittAnderson.github.io/posts/2025-06-18-computer-languages.html</guid>
-    <dc:creator>Britt Anderson</dc:creator>
-</item>
-<item>
-    <title>The Problem of Theoretical Psychology</title>
-    <link>https://brittAnderson.github.io/posts/2025-05-30-the-problem.html</link>
-    <description><![CDATA[<article>
-    <section class="header">
-        Posted on May 30, 2025
-        
-            by Britt Anderson
-        
-    </section>
-    <section>
-        <p>Scientific psychology began as a science of the human mind: a subjective science to complement the objective sciences of physics and biology. It failed. It became satisfied with results instead of answers; measuring behaviors instead of thoughts.</p>
-<p>One professional lifespan was enough to forget. Cognitive psychology again tried to model mind. It too failed. Technological progress yielded a neurobehaviorism: cognitive neuroscience; neural correlates substituted for mental causes.</p>
-<p>What if the problem isn’t that the question is about minds and what a conscious person feels, but the language we use to express our ideas about answers?</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Fri, 30 May 2025 00:00:00 UT</pubDate>
-    <guid>https://brittAnderson.github.io/posts/2025-05-30-the-problem.html</guid>
-    <dc:creator>Britt Anderson</dc:creator>
-</item>
-<item>
-    <title>Why</title>
-    <link>https://brittAnderson.github.io/posts/2025-05-23-why.html</link>
-    <description><![CDATA[<article>
-    <section class="header">
-        Posted on May 23, 2025
-        
-            by Britt Anderson
-        
-    </section>
-    <section>
-        <p>Why is it what it is that makes it feels like me? And: What is the what
-that explains the why?</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Fri, 23 May 2025 00:00:00 UT</pubDate>
-    <guid>https://brittAnderson.github.io/posts/2025-05-23-why.html</guid>
-    <dc:creator>Britt Anderson</dc:creator>
-</item>
-<item>
-    <title>We need a new language</title>
-    <link>https://brittAnderson.github.io/posts/2025-05-22-language.html</link>
-    <description><![CDATA[<article>
-    <section class="header">
-        Posted on May 22, 2025
-        
-            by Britt Anderson
-        
-    </section>
-    <section>
-        <blockquote>
-<p>“I am designing a new language. I've reached the limits of
-conventional languages, and now they frustrate my attempts to progress
-further. They lack the power to express concepts that I need, and even
-in their own domain, they're imprecise and unwieldy. They're hardly
-fit for speech, let alone for thought.</p>
-<p>“Existing linguistic theory is useless; I'll reevaluate basic logic to
-determine the suitable atomic components for my language. This
-language will support a dialect coexpressive with all of mathematics,
-so that any equation I write will have a linguistic equivalent.” - Ted Chiang <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
-</blockquote>
-<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
-<hr />
-<ol>
-<li id="fn1"><p>Ted Chiang, <em>Stories of Your Life and Others</em> (Tor, 2002).<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section>
-    </section>
-</article>
-]]></description>
-    <pubDate>Thu, 22 May 2025 00:00:00 UT</pubDate>
-    <guid>https://brittAnderson.github.io/posts/2025-05-22-language.html</guid>
-    <dc:creator>Britt Anderson</dc:creator>
-</item>
 
-    </channel>
-</rss>
+        </main>
+
+        <footer>
+	  <a href="../rss.xml">RSS</a>
+        </footer>
+    </body>
+</html>
