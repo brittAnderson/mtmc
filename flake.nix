@@ -5,10 +5,10 @@
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
   };
 
-  outputs = {
+  outputs = { self, nixpkgs }:
     let
       system = "x86_64-linux";
-      pkgs = nixpksgs.legacyPackages.${system};
+      pkgs = nixpkgs.legacyPackages.${system};
       ghcWithDeps = pkgs.haskellPackages.ghcWithPackages (hp: with hp;
         [
           hakyll
@@ -22,7 +22,7 @@
             pkgs.cabal-install
           ];
           shellHook = ''
-            echo "Structure if function; function structure. That is all ye need to know."
+            echo "Structure is function; function structure. That is all ye need to know."
           '';
         };
       };
