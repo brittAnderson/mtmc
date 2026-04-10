@@ -5,4 +5,4 @@ dist-newstyle/
 *.*~
 future-thoughts.org
 
-direnv/
+.direnv/
