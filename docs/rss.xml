@@ -7,8 +7,31 @@
         <description><![CDATA[Seeking a Language for Theoretical Psychology]]></description>
         <atom:link href="https://brittAnderson.github.io/rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Fri, 10 Apr 2026 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 00:00:00 UT</lastBuildDate>
         <item>
+    <title>What is Category Theory For?</title>
+    <link>https://brittAnderson.github.io/posts/2026-05-21-what-is-category-theory-for.html</link>
+    <description><![CDATA[<article>
+    <section class="header">
+        Posted on May 21, 2026
+        
+            by Britt Anderson
+        
+    </section>
+    <section>
+        <h1 id="category-theory-is-for-theory-building">Category Theory is for Theory Building</h1>
+<blockquote>
+<p>The natural role, let us at least say, the original role of category theory, is theory building, right? That’s how it came into being … that’s why Eilenberg and MacLane introduced it and that is what it is best at. It’s for theory building right? Whenever you have a question that is not solve this equation in a well-defined context … but where the question is a meta-question like what is the actual theory we’re looking for …</p>
+</blockquote>
+<p>— Urs Schreiber on the <em>About Logic Podcast</em> <a href="https://aboutlogic.podigee.io/12-neue-episode">#12</a>, 20 May 2026</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Thu, 21 May 2026 00:00:00 UT</pubDate>
+    <guid>https://brittAnderson.github.io/posts/2026-05-21-what-is-category-theory-for.html</guid>
+    <dc:creator>Britt Anderson</dc:creator>
+</item>
+<item>
     <title>What is the visual capacity of the post-mortem brain?</title>
     <link>https://brittAnderson.github.io/posts/2026-04-10-visual-capacity.html</link>
     <description><![CDATA[<article>
