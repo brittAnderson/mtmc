@@ -7,8 +7,55 @@
         <description><![CDATA[Seeking a Language for Theoretical Psychology]]></description>
         <atom:link href="https://brittAnderson.github.io/rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Tue, 26 May 2026 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 00:00:00 UT</lastBuildDate>
         <item>
+    <title>Six Years of Advanced Calculus is not Enough to be an Academic Psychologist</title>
+    <link>https://brittAnderson.github.io/posts/2026-07-14-six-years-of-calculus-is-not-enough.html</link>
+    <description><![CDATA[<article>
+    <section class="header">
+        Posted on July 14, 2026
+        
+            by Britt Anderson
+        
+    </section>
+    <section>
+        <h1 id="don-norman-on-the-cognition-project">Don Norman on the <a href="https://shows.acast.com/the-cognition-project/episodes/6a46aeab5ef16cb804a6e49d">Cognition Project</a> …</h1>
+<p>… reports that when beginning graduate school Duncan Luce told him “[you] don’t know enough mathematics.” This was despite “six years of advanced calculus. Those are interesting days.”</p>
+<p>But apparently cognitive psychology has gotten easier since Norman’s time as many programs don’t require their undergraduates to take <em>any</em> calculus.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Tue, 14 Jul 2026 00:00:00 UT</pubDate>
+    <guid>https://brittAnderson.github.io/posts/2026-07-14-six-years-of-calculus-is-not-enough.html</guid>
+    <dc:creator>Britt Anderson</dc:creator>
+</item>
+<item>
+    <title>Psychology is Harder than Physics</title>
+    <link>https://brittAnderson.github.io/posts/2026-07-14-psychology-is-harder-than-physics.html</link>
+    <description><![CDATA[<article>
+    <section class="header">
+        Posted on July 14, 2026
+        
+            by Britt Anderson
+        
+    </section>
+    <section>
+        <h1 id="imagine-how-hard-physics-would-be-if-electrons-could-think.1">“Imagine how hard physics would be if electrons could think.”<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></h1>
+<p>From this we might reasonably conclude that psychology is a more difficult science than physics, at least as regards developing empirically robust theories. If so, why do so many people in psychology think we need to know <strong>less</strong> math than physicists?</p>
+<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<hr />
+<ol>
+<li id="fn1"><p>Attributed by <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/%28SICI%291099-0526%28199909/10%295%3A1%3C35%3A%3AAID-CPLX5%3E3.0.CO%3B2-B">Page</a> to Gell-Mann, but I cannot find it in the reference Page cites.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+    </section>
+</article>
+]]></description>
+    <pubDate>Tue, 14 Jul 2026 00:00:00 UT</pubDate>
+    <guid>https://brittAnderson.github.io/posts/2026-07-14-psychology-is-harder-than-physics.html</guid>
+    <dc:creator>Britt Anderson</dc:creator>
+</item>
+<item>
     <title>Category Theory as the Right Tool for Theory Building in Neuroscience</title>
     <link>https://brittAnderson.github.io/posts/2026-05-26-category-theory-and-neuroscience.html</link>
     <description><![CDATA[<article>
@@ -469,61 +516,6 @@ the complexity of what we are designing."</p>
 ]]></description>
     <pubDate>Fri, 30 May 2025 00:00:00 UT</pubDate>
     <guid>https://brittAnderson.github.io/posts/2025-05-30-the-problem.html</guid>
-    <dc:creator>Britt Anderson</dc:creator>
-</item>
-<item>
-    <title>Why</title>
-    <link>https://brittAnderson.github.io/posts/2025-05-23-why.html</link>
-    <description><![CDATA[<article>
-    <section class="header">
-        Posted on May 23, 2025
-        
-            by Britt Anderson
-        
-    </section>
-    <section>
-        <p>Why is it what it is that makes it feels like me? And: What is the what
-that explains the why?</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Fri, 23 May 2025 00:00:00 UT</pubDate>
-    <guid>https://brittAnderson.github.io/posts/2025-05-23-why.html</guid>
-    <dc:creator>Britt Anderson</dc:creator>
-</item>
-<item>
-    <title>We need a new language</title>
-    <link>https://brittAnderson.github.io/posts/2025-05-22-language.html</link>
-    <description><![CDATA[<article>
-    <section class="header">
-        Posted on May 22, 2025
-        
-            by Britt Anderson
-        
-    </section>
-    <section>
-        <blockquote>
-<p>“I am designing a new language. I've reached the limits of
-conventional languages, and now they frustrate my attempts to progress
-further. They lack the power to express concepts that I need, and even
-in their own domain, they're imprecise and unwieldy. They're hardly
-fit for speech, let alone for thought.</p>
-<p>“Existing linguistic theory is useless; I'll reevaluate basic logic to
-determine the suitable atomic components for my language. This
-language will support a dialect coexpressive with all of mathematics,
-so that any equation I write will have a linguistic equivalent.” - Ted Chiang <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
-</blockquote>
-<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
-<hr />
-<ol>
-<li id="fn1"><p>Ted Chiang, <em>Stories of Your Life and Others</em> (Tor, 2002).<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section>
-    </section>
-</article>
-]]></description>
-    <pubDate>Thu, 22 May 2025 00:00:00 UT</pubDate>
-    <guid>https://brittAnderson.github.io/posts/2025-05-22-language.html</guid>
     <dc:creator>Britt Anderson</dc:creator>
 </item>
 
