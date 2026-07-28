@@ -7,8 +7,41 @@
         <description><![CDATA[Seeking a Language for Theoretical Psychology]]></description>
         <atom:link href="https://brittAnderson.github.io/rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Tue, 14 Jul 2026 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 00:00:00 UT</lastBuildDate>
         <item>
+    <title>Describing Thought Takes Math</title>
+    <link>https://brittAnderson.github.io/posts/2026-07-28-braitenberg.html</link>
+    <description><![CDATA[<article>
+    <section class="header">
+        Posted on July 28, 2026
+        
+            by Britt Anderson
+        
+    </section>
+    <section>
+        <h1 id="point-2">Point #2</h1>
+<blockquote>
+<p>We are convinced that ultimately a satisfactory explanation of thought
+and behaviour will be given in a language akin to that of physics,
+i.e. in mathematical terms<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+</blockquote>
+<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<hr />
+<ol>
+<li id="fn1"><p>Valentino Braitenberg, “Manifesto of Brain Science,” in
+<em>Information Processing in the Cortex</em> (Springer Berlin Heidelberg,
+1992), 473–77,
+doi:<a href="https://doi.org/10.1007/978-3-642-49967-8_29">10.1007/978-3-642-49967-8_29</a>.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+    </section>
+</article>
+]]></description>
+    <pubDate>Tue, 28 Jul 2026 00:00:00 UT</pubDate>
+    <guid>https://brittAnderson.github.io/posts/2026-07-28-braitenberg.html</guid>
+    <dc:creator>Britt Anderson</dc:creator>
+</item>
+<item>
     <title>Six Years of Advanced Calculus is not Enough to be an Academic Psychologist</title>
     <link>https://brittAnderson.github.io/posts/2026-07-14-six-years-of-calculus-is-not-enough.html</link>
     <description><![CDATA[<article>
@@ -495,27 +528,6 @@ the complexity of what we are designing."</p>
 ]]></description>
     <pubDate>Wed, 18 Jun 2025 00:00:00 UT</pubDate>
     <guid>https://brittAnderson.github.io/posts/2025-06-18-computer-languages.html</guid>
-    <dc:creator>Britt Anderson</dc:creator>
-</item>
-<item>
-    <title>The Problem of Theoretical Psychology</title>
-    <link>https://brittAnderson.github.io/posts/2025-05-30-the-problem.html</link>
-    <description><![CDATA[<article>
-    <section class="header">
-        Posted on May 30, 2025
-        
-            by Britt Anderson
-        
-    </section>
-    <section>
-        <p>Scientific psychology began as a science of the human mind: a subjective science to complement the objective sciences of physics and biology. It failed. It became satisfied with results instead of answers; measuring behaviors instead of thoughts.</p>
-<p>One professional lifespan was enough to forget. Cognitive psychology again tried to model mind. It too failed. Technological progress yielded a neurobehaviorism: cognitive neuroscience; neural correlates substituted for mental causes.</p>
-<p>What if the problem isn’t that the question is about minds and what a conscious person feels, but the language we use to express our ideas about answers?</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Fri, 30 May 2025 00:00:00 UT</pubDate>
-    <guid>https://brittAnderson.github.io/posts/2025-05-30-the-problem.html</guid>
     <dc:creator>Britt Anderson</dc:creator>
 </item>
 
