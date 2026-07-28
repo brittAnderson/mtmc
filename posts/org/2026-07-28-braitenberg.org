@@ -1,0 +1,9 @@
+#+Title: Describing Thought Takes Math
+#+Author: Britt Anderson
+#+tags: mtmc, braitenberg, math
+
+* Point #2
+
+#+begin_quote
+We are convinced that ultimately a satisfactory explanation of thought and behaviour will be given in a language akin to that of physics, i.e. in mathematical terms [cite:@Braitenberg_1992]
+#+end_quote
