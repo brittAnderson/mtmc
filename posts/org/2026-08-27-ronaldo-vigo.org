@@ -1,0 +1,10 @@
+#+Title: Cognitive Science is a Hodge-Podge
+#+Author: Britt Anderson
+#+tags: mtmc, vigo, cognitive science
+
+* From the Preface
+
+#+begin_quote
+In colloquial terms, cognitive science in its present state mostly amounts to a hodge-podge of theories, model, and empirical results that lack genuine predictive and explanatory power, and a common solid basis for unification. [cite:@Vigo_2014]
+#+end_quote
+
